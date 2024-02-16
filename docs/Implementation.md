@@ -8,7 +8,7 @@ Digits from corresponding positions in two numbers are summed. If a carry-over o
 
 *Example in octal system:*
 
-![Octal system addition](0.png)
+![Octal system addition](res/0.png)
 
 ## Subtraction
 
@@ -16,7 +16,7 @@ This operation is similar to addition, but in cases where a digit is insufficien
 
 *Example in the decimal system:*
 
-![Decimal system subtraction](1.png)
+![Decimal system subtraction](res/1.png)
 
 ## Multiplication
 
@@ -24,7 +24,7 @@ Digits from the right side of one number are sequentially multiplied by the enti
 
 *Example in the binary system:*
 
-![Binary system multiplication](2.png)
+![Binary system multiplication](res/2.png)
 
 ## Division
 
@@ -32,7 +32,7 @@ A group of digits from the dividend is selected to ensure that the divisor fits 
 
 *Example in the hexadecimal system:*
 
-![Hexadecimal system division](3.png)
+![Hexadecimal system division](res/3.png)
 
 ## Modulo
 
@@ -60,7 +60,7 @@ The decimal number is divided by the new base, and the remainder is recorded. Th
 
 *Example in the duodecimal system:*
 
-![Duodecimal to decimal system conversion](4.png)
+![Duodecimal to decimal system conversion](res/4.png)
 
 ### Between Bases
 
